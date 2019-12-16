@@ -4,4 +4,8 @@ module.exports = app => {
     res.render('index')
   })
 
+  app.get('/Saved', (req, res) => {
+    res.render('Saved')
+  })
+
 }

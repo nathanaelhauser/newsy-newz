@@ -13,6 +13,5 @@ module.exports = (model, Schema) => {
     notes: [{ type: Schema.Types.ObjectId, ref: 'Note'}]
   })
 
-
   return model('Article', Article)
 }
