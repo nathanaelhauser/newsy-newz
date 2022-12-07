@@ -20,7 +20,7 @@
   "homepage": "https://github.com/mesmerizingYeti/newsy-newz#readme",
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "express-react-views": "^0.11.0",
     "mongoose": "^5.8.1",
     "react": "^16.12.0",
